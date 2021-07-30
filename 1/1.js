@@ -1,0 +1,3 @@
+/*
+    Define a character and a numer of times to repeat. In console show a string that represents the defined character repetead by the number of times defined.
+*/
